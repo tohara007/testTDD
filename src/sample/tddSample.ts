@@ -1,3 +1,3 @@
 export const getNum = (num: number): number => {
-  return 1
+  return num*2
 }
